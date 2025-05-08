@@ -10,3 +10,6 @@ g6UujJyXGGuubFESs4YbbKlWTdc3NnKmHEErSqNetFTFY0SZwB
 (file too)
 --html method
 (file too)
+--Working page
+canvas.collierschools.com
+(other pages don't work because some of them don't allow some functions)
